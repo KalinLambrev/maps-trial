@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.53438, 42.05226]
+            },
+            "properties": {
+                "name": "Semkovo"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.593444, 42.121763]
+            },
+            "properties": {
+                "name": "Granchar"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.6408981, 42.16831245 ]
+            },
+            "properties": {
+                "name": "Zavratchica"
+            }
+        }
+    ]
+}
